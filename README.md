@@ -230,12 +230,6 @@ ORDER BY
 
 
 
-
-
-
-
-
-
 ## Findings
 
 - **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
